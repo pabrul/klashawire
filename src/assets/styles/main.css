@@ -1,0 +1,10 @@
+@import "./components/index.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.router-link-active,
+.router-link-exact-active {
+  @apply text-klasha-primary font-bold;
+}
