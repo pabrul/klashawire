@@ -4,6 +4,13 @@ Welcome to the **KlashaWire Dashboard**! This project showcases a simple yet sca
 
 ---
 
+
+https://github.com/user-attachments/assets/89ff2c11-1c75-4e82-824f-aaa290afc781
+
+
+---
+
+
 ## 📂 Project Structure
 
 Our folder structure is designed to prioritize **scalability**, **modularity**, and **ease of understanding**:
