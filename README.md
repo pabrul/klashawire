@@ -90,10 +90,10 @@ Make sure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/pabrul/klashawire-dashboard.git
+git clone https://github.com/pabrul/klashawire.git
 
 # Navigate to the project folder
-cd klashawire-dashboard
+cd klashawire
 
 # Install dependencies
 npm install
